@@ -1,0 +1,19 @@
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+
+# Live Server config files
+*.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
